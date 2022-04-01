@@ -1,0 +1,1334 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1126 &-4171838183678168294
+PackedAssets:
+  m_File: 1
+  m_ShortPath: BuildPlayer-SampleScene.sharedAssets
+  m_Overhead: 108055
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 97
+    offset: 109784
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 142
+    packedSize: 132
+    offset: 109888
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 3
+    classID: 21
+    packedSize: 904
+    offset: 110024
+    sourceAssetGUID: c2235311cd02c814bb1855a3541d2558
+    buildTimeAssetPath: Assets/BigFurniturePack/Materials/brown.mat
+  - fileID: 4
+    classID: 21
+    packedSize: 904
+    offset: 110928
+    sourceAssetGUID: ab1eeafaf4b5de24abe1a4afff4047c7
+    buildTimeAssetPath: Assets/BigFurniturePack/Materials/cloth_3.mat
+  - fileID: 5
+    classID: 21
+    packedSize: 892
+    offset: 111832
+    sourceAssetGUID: 02726807d2228b64cba8706d8b52050f
+    buildTimeAssetPath: Assets/BigFurniturePack/Materials/cloth_4.mat
+  - fileID: 6
+    classID: 21
+    packedSize: 892
+    offset: 112728
+    sourceAssetGUID: 65d4d687f4603954b8f559ec17245153
+    buildTimeAssetPath: Assets/BigFurniturePack/Materials/wood_3.mat
+  - fileID: 7
+    classID: 21
+    packedSize: 940
+    offset: 113624
+    sourceAssetGUID: 15ee18a418e72d1418815052445c3c11
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Materials/Frames/mat_intDoor_metalFrame_white.mat
+  - fileID: 8
+    classID: 21
+    packedSize: 932
+    offset: 114568
+    sourceAssetGUID: f5ff2560e39df5b4db5703fd2fcabd3f
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Materials/Knobs/mat_doorKnob_brass.mat
+  - fileID: 9
+    classID: 21
+    packedSize: 924
+    offset: 115504
+    sourceAssetGUID: ed7456f7ea3eb8c44823541593c9eb3e
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Materials/mat_door1.mat
+  - fileID: 10
+    classID: 21
+    packedSize: 920
+    offset: 116432
+    sourceAssetGUID: 5b43cdb8858395c4ea85d1107a4c5cdc
+    buildTimeAssetPath: Assets/Materials/Ground.mat
+  - fileID: 11
+    classID: 21
+    packedSize: 908
+    offset: 117352
+    sourceAssetGUID: 5e53fc81910064a48b8e1fd18ed517a8
+    buildTimeAssetPath: Assets/Materials/HQ MIRROR.mat
+  - fileID: 12
+    classID: 21
+    packedSize: 908
+    offset: 118264
+    sourceAssetGUID: a8c738170c4304d4290ce0e053c4a689
+    buildTimeAssetPath: Assets/Materials/LQ MIRROR.mat
+  - fileID: 13
+    classID: 21
+    packedSize: 908
+    offset: 119176
+    sourceAssetGUID: eb3c91a015614fc40a1f294c4c0d397d
+    buildTimeAssetPath: Assets/Materials/New Material.mat
+  - fileID: 14
+    classID: 21
+    packedSize: 900
+    offset: 120088
+    sourceAssetGUID: 3cbbe8c7fd5470a42804f699730454a3
+    buildTimeAssetPath: Assets/Materials/Red.mat
+  - fileID: 15
+    classID: 21
+    packedSize: 900
+    offset: 120992
+    sourceAssetGUID: 80d46a99cf2a8c94085a38bb301ce400
+    buildTimeAssetPath: Assets/Materials/Wall.mat
+  - fileID: 16
+    classID: 21
+    packedSize: 904
+    offset: 121896
+    sourceAssetGUID: b7a735da2752dbf4294510a165bcb5ff
+    buildTimeAssetPath: Assets/Materials/carpet.mat
+  - fileID: 17
+    classID: 21
+    packedSize: 944
+    offset: 122800
+    sourceAssetGUID: c8890a4c1e94b974da4e309253484db9
+    buildTimeAssetPath: Assets/Materials/invi.mat
+  - fileID: 18
+    classID: 21
+    packedSize: 484
+    offset: 123744
+    sourceAssetGUID: ef9adfc2fa38ffa4a865279e33c78021
+    buildTimeAssetPath: Assets/QvPen/Material/Eraser/point.mat
+  - fileID: 19
+    classID: 21
+    packedSize: 492
+    offset: 124232
+    sourceAssetGUID: 419ae9fed5372564c995339c60fd7ebf
+    buildTimeAssetPath: Assets/QvPen/Material/Eraser/qv_eraser (0).mat
+  - fileID: 20
+    classID: 21
+    packedSize: 492
+    offset: 124728
+    sourceAssetGUID: 3f13a5d1eb038764b804d1aabffed55f
+    buildTimeAssetPath: Assets/QvPen/Material/Eraser/qv_eraser (1).mat
+  - fileID: 21
+    classID: 21
+    packedSize: 492
+    offset: 125224
+    sourceAssetGUID: e86e7281176dae945bd655f34805ed55
+    buildTimeAssetPath: Assets/QvPen/Material/Eraser/qv_eraser (2).mat
+  - fileID: 22
+    classID: 21
+    packedSize: 112
+    offset: 125720
+    sourceAssetGUID: 6b64136272204b8458c4bd55be9f97cb
+    buildTimeAssetPath: Assets/QvPen/Material/Ink.mat
+  - fileID: 23
+    classID: 21
+    packedSize: 932
+    offset: 125832
+    sourceAssetGUID: 51d72acecdb1ba249957953415f8e29b
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (0).mat
+  - fileID: 24
+    classID: 21
+    packedSize: 932
+    offset: 126768
+    sourceAssetGUID: b24ed807dd7dc224baf5390f46738647
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (1).mat
+  - fileID: 25
+    classID: 21
+    packedSize: 932
+    offset: 127704
+    sourceAssetGUID: 43d0ae848fdfe6d4495a87f8e80e386b
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (10).mat
+  - fileID: 26
+    classID: 21
+    packedSize: 932
+    offset: 128640
+    sourceAssetGUID: 254a177cd9c57e84683d0fd3bd1be46d
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (11).mat
+  - fileID: 27
+    classID: 21
+    packedSize: 932
+    offset: 129576
+    sourceAssetGUID: e01134920adbcf549ac7f52ceeb583a2
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (12).mat
+  - fileID: 28
+    classID: 21
+    packedSize: 932
+    offset: 130512
+    sourceAssetGUID: 56778de2f4060f14fb06bc8cba7e30b7
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (13).mat
+  - fileID: 29
+    classID: 21
+    packedSize: 984
+    offset: 131448
+    sourceAssetGUID: ce799f3a13788f049bef05d1f3514ff8
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (14).mat
+  - fileID: 30
+    classID: 21
+    packedSize: 932
+    offset: 132432
+    sourceAssetGUID: b3889ddf2a4bd9346a4843eb47e0acb1
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (2).mat
+  - fileID: 31
+    classID: 21
+    packedSize: 932
+    offset: 133368
+    sourceAssetGUID: 49c7ed6d767622b4fadcf200017fd44f
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (3).mat
+  - fileID: 32
+    classID: 21
+    packedSize: 932
+    offset: 134304
+    sourceAssetGUID: dd75a5d3bd47a0c489c0fd71aff39ede
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (4).mat
+  - fileID: 33
+    classID: 21
+    packedSize: 932
+    offset: 135240
+    sourceAssetGUID: a393dafb2990e2c4fa0628ace4444efa
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (5).mat
+  - fileID: 34
+    classID: 21
+    packedSize: 932
+    offset: 136176
+    sourceAssetGUID: 88aa935393607b6409baa45499f5156b
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (6).mat
+  - fileID: 35
+    classID: 21
+    packedSize: 932
+    offset: 137112
+    sourceAssetGUID: 9db9f48f3ee803d448488d4368a140f9
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (7).mat
+  - fileID: 36
+    classID: 21
+    packedSize: 932
+    offset: 138048
+    sourceAssetGUID: 87529c80faca0ef4a881efba652815f3
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (8).mat
+  - fileID: 37
+    classID: 21
+    packedSize: 932
+    offset: 138984
+    sourceAssetGUID: 885a01c79ffd5024489a1fb31f3fffb5
+    buildTimeAssetPath: Assets/QvPen/Material/Pen/color (9).mat
+  - fileID: 38
+    classID: 21
+    packedSize: 888
+    offset: 139920
+    sourceAssetGUID: c2af845bdfb561149b08ba13167ff040
+    buildTimeAssetPath: Assets/QvPen/Material/wood.mat
+  - fileID: 39
+    classID: 21
+    packedSize: 948
+    offset: 140808
+    sourceAssetGUID: e859f9471f0e297459fb312cb6ba8bb9
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/1559597327.dakota..softpaw_dakota_softpaw_pride_flag.mat
+  - fileID: 40
+    classID: 21
+    packedSize: 936
+    offset: 141760
+    sourceAssetGUID: ae1b435b25661a74d95f2e6bf01d1377
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/1575511388.dakota..softpaw_fursona_shark.mat
+  - fileID: 41
+    classID: 21
+    packedSize: 936
+    offset: 142696
+    sourceAssetGUID: fede85e6601b4d947af38b83c4e7e965
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/1602089372.dakota..softpaw_octych7oc2.mat
+  - fileID: 42
+    classID: 21
+    packedSize: 936
+    offset: 143632
+    sourceAssetGUID: c7cc96c33cf7e6e44b4a6577facaa24f
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/1604898710.dakota..softpaw_pcychsockoc2.mat
+  - fileID: 43
+    classID: 21
+    packedSize: 908
+    offset: 144568
+    sourceAssetGUID: 31c2e545c205d1949ad8088e81f36c82
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/Cupcake YCH.mat
+  - fileID: 44
+    classID: 21
+    packedSize: 916
+    offset: 145480
+    sourceAssetGUID: 1ba14cde2f2b35f4d8c50c7a924aa8d9
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/FB_IMG_1613896915598.mat
+  - fileID: 45
+    classID: 21
+    packedSize: 916
+    offset: 146400
+    sourceAssetGUID: 17dd30f308d1fdd4d8f8635e623ad07e
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/Feel the music YCH.mat
+  - fileID: 46
+    classID: 21
+    packedSize: 904
+    offset: 147320
+    sourceAssetGUID: d147ba8cee5c43842b83e880e10297da
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/Brown.mat
+  - fileID: 47
+    classID: 21
+    packedSize: 912
+    offset: 148224
+    sourceAssetGUID: 650dfc424b811a94cac85a2dc638becd
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      1.mat
+  - fileID: 48
+    classID: 21
+    packedSize: 912
+    offset: 149136
+    sourceAssetGUID: bbc2746fdb5dcd848849db17b911022f
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      10.mat
+  - fileID: 49
+    classID: 21
+    packedSize: 912
+    offset: 150048
+    sourceAssetGUID: 605856c6871155b468def52b084be142
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      11.mat
+  - fileID: 50
+    classID: 21
+    packedSize: 912
+    offset: 150960
+    sourceAssetGUID: 4bd1b8749dddff24ea695f7405ce119f
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      2.mat
+  - fileID: 51
+    classID: 21
+    packedSize: 912
+    offset: 151872
+    sourceAssetGUID: 835ae17f92b38a64a849e1bc20d79daf
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      3.mat
+  - fileID: 52
+    classID: 21
+    packedSize: 912
+    offset: 152784
+    sourceAssetGUID: 5f50e6c8803693e4f8c4dd7da591d736
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      4.mat
+  - fileID: 53
+    classID: 21
+    packedSize: 912
+    offset: 153696
+    sourceAssetGUID: 114ad30b6deb44d4dac014ac0497eb5d
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      5.mat
+  - fileID: 54
+    classID: 21
+    packedSize: 912
+    offset: 154608
+    sourceAssetGUID: e6e9cfb7d8f7e964da04eee7513f2691
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      6.mat
+  - fileID: 55
+    classID: 21
+    packedSize: 912
+    offset: 155520
+    sourceAssetGUID: 22207a52bdccca449af559236df4d8c3
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      7.mat
+  - fileID: 56
+    classID: 21
+    packedSize: 912
+    offset: 156432
+    sourceAssetGUID: 961bf49bdd89b484e8246585980994ef
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      8.mat
+  - fileID: 57
+    classID: 21
+    packedSize: 912
+    offset: 157344
+    sourceAssetGUID: ca901b557c7e76d459681e0dbbbfdaee
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material
+      9.mat
+  - fileID: 58
+    classID: 21
+    packedSize: 908
+    offset: 158256
+    sourceAssetGUID: cb5c42ebf47ad6f4f95b0fa467ca5103
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/New Material.mat
+  - fileID: 59
+    classID: 21
+    packedSize: 908
+    offset: 159168
+    sourceAssetGUID: 0114d86456e984f4f8731abf827900ae
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/rainbow-sq.mat
+  - fileID: 60
+    classID: 21
+    packedSize: 904
+    offset: 160080
+    sourceAssetGUID: d59f8aec4a051984eb25b598c3951097
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/IMG_6802.mat
+  - fileID: 61
+    classID: 21
+    packedSize: 904
+    offset: 160984
+    sourceAssetGUID: e83a78c40bc33174784d76706e0e27fd
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/IMG_6895.mat
+  - fileID: 62
+    classID: 21
+    packedSize: 908
+    offset: 161888
+    sourceAssetGUID: 7f3baf6704da12349a5d419df7feec10
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/Kota Bean 2.mat
+  - fileID: 63
+    classID: 21
+    packedSize: 916
+    offset: 162800
+    sourceAssetGUID: 2ff0be71462e8664b92cbcef7add5679
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/Old School Kota Kewn.mat
+  - fileID: 64
+    classID: 21
+    packedSize: 924
+    offset: 163720
+    sourceAssetGUID: 63f22cf0a84ee7145bdd63a1708ce428
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/Screenshot 2021-10-27 182440.mat
+  - fileID: 65
+    classID: 21
+    packedSize: 924
+    offset: 164648
+    sourceAssetGUID: 57088a25e22ad2a49a4c0c22d43fc319
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/Screenshot 2021-10-28 181756.mat
+  - fileID: 66
+    classID: 21
+    packedSize: 924
+    offset: 165576
+    sourceAssetGUID: bcf1fdb6717feb147810470006fa1eff
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/Screenshot 2021-10-28 182243.mat
+  - fileID: 67
+    classID: 21
+    packedSize: 912
+    offset: 166504
+    sourceAssetGUID: 73ceea45bc7f1ea4b91f627e65e7a87d
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/Toony commisson.mat
+  - fileID: 68
+    classID: 21
+    packedSize: 936
+    offset: 167416
+    sourceAssetGUID: c49955ff2f51eb5469b612cfcec9ded6
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-08-18_20-53-40.389.mat
+  - fileID: 69
+    classID: 21
+    packedSize: 936
+    offset: 168352
+    sourceAssetGUID: 6e92a96c1d7a2f8479c97b9d20eb409c
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-08-26_23-39-07.267.mat
+  - fileID: 70
+    classID: 21
+    packedSize: 936
+    offset: 169288
+    sourceAssetGUID: 3aa34d95e9b5fe244b44673abe53216a
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-08-28_14-55-41.526.mat
+  - fileID: 71
+    classID: 21
+    packedSize: 936
+    offset: 170224
+    sourceAssetGUID: 61b565e7d567d1f4292e204999d644c6
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-09-02_22-09-57.964.mat
+  - fileID: 72
+    classID: 21
+    packedSize: 936
+    offset: 171160
+    sourceAssetGUID: 692ac6dbfaca6784a8d8e4fe075bd2bc
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-09-06_20-47-42.659.mat
+  - fileID: 73
+    classID: 21
+    packedSize: 936
+    offset: 172096
+    sourceAssetGUID: cb5e12f8139cefa498d5f448e501b836
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-09-06_20-50-22.437.mat
+  - fileID: 74
+    classID: 21
+    packedSize: 936
+    offset: 173032
+    sourceAssetGUID: eb059cf61b02e5f44bc97a5befde66c5
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-09-08_11-16-00.850.mat
+  - fileID: 75
+    classID: 21
+    packedSize: 936
+    offset: 173968
+    sourceAssetGUID: b136750647ca16b438becb3be73687f1
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-11-03_14-08-21.029.mat
+  - fileID: 76
+    classID: 21
+    packedSize: 936
+    offset: 174904
+    sourceAssetGUID: 9855caac433c5a94e931e93faa1474eb
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-11-03_14-13-52.599.mat
+  - fileID: 77
+    classID: 21
+    packedSize: 936
+    offset: 175840
+    sourceAssetGUID: 84573a84de4aa79448052d3fc8b222da
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-11-03_14-22-46.146.mat
+  - fileID: 78
+    classID: 21
+    packedSize: 936
+    offset: 176776
+    sourceAssetGUID: 787fc0bb02f901944839a0d5bea33495
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-11-03_14-32-31.018.mat
+  - fileID: 79
+    classID: 21
+    packedSize: 936
+    offset: 177712
+    sourceAssetGUID: a3016ffe736246e42aab5b008f825b9d
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-11-03_14-39-45.343.mat
+  - fileID: 80
+    classID: 21
+    packedSize: 936
+    offset: 178648
+    sourceAssetGUID: c35150d4331b0bf438b58c448b51298d
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-11-03_20-34-41.551.mat
+  - fileID: 81
+    classID: 21
+    packedSize: 936
+    offset: 179584
+    sourceAssetGUID: eccd77534026d604a9a3f6fadcf9b055
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-11-03_20-34-51.532.mat
+  - fileID: 82
+    classID: 21
+    packedSize: 936
+    offset: 180520
+    sourceAssetGUID: 5ef05522527fa7340a8ef1816a72affd
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-11-03_21-26-15.267.mat
+  - fileID: 83
+    classID: 21
+    packedSize: 940
+    offset: 181456
+    sourceAssetGUID: d2d1a57695f62024aae96306ef144951
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-11-04_20-45-16.929
+      (2).mat
+  - fileID: 84
+    classID: 21
+    packedSize: 936
+    offset: 182400
+    sourceAssetGUID: 9e60532d49bb0b24994c34d0e65514b8
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/VRChat_1920x1080_2021-11-08_10-30-47.851.mat
+  - fileID: 85
+    classID: 21
+    packedSize: 908
+    offset: 183336
+    sourceAssetGUID: 301f220f848092f4ab5a2a67346bd78e
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/backround.mat
+  - fileID: 86
+    classID: 21
+    packedSize: 900
+    offset: 184248
+    sourceAssetGUID: dcf16edabf5d5324295e26eca0a7e7c5
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/cute.mat
+  - fileID: 87
+    classID: 21
+    packedSize: 916
+    offset: 185152
+    sourceAssetGUID: 3f9ecfc3e45039f44948c3e49f1e4f94
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/dakotasoftpwcomm-1.mat
+  - fileID: 88
+    classID: 21
+    packedSize: 908
+    offset: 186072
+    sourceAssetGUID: f143ac534e386da43857513b99d72f2a
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/fursuit 1.mat
+  - fileID: 89
+    classID: 21
+    packedSize: 908
+    offset: 186984
+    sourceAssetGUID: 78ff273123bdf2d438693aafcdb4c07c
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/ychsleep9-1.mat
+  - fileID: 90
+    classID: 21
+    packedSize: 1140
+    offset: 187896
+    sourceAssetGUID: c815f7613a04b724089c206857e57c6a
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Materials/MirrorReflection.mat
+  - fileID: 91
+    classID: 28
+    packedSize: 37040
+    offset: 189040
+    sourceAssetGUID: 00b891a648257a247a81034165a9f6c7
+    buildTimeAssetPath: Assets/VRC World Photos/dakotasoftpwcomm-1.png
+  - fileID: 92
+    classID: 28
+    packedSize: 249096
+    offset: 226080
+    sourceAssetGUID: 064eaff9266d6da4685f74fc358d5e15
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-11-03_14-39-45.343.png
+  - fileID: 93
+    classID: 28
+    packedSize: 54772
+    offset: 475176
+    sourceAssetGUID: 079ea15263155ad4d9dcb0f8c8458d7c
+    buildTimeAssetPath: Assets/VRC World Photos/ychsleep9-1.png
+  - fileID: 94
+    classID: 28
+    packedSize: 262816
+    offset: 529952
+    sourceAssetGUID: 0d821f0273276844fa8c0e8c4090f1c3
+    buildTimeAssetPath: Assets/VRC World Photos/IMG_6802.png
+  - fileID: 95
+    classID: 28
+    packedSize: 259576
+    offset: 792768
+    sourceAssetGUID: 222e71f8a5c8b0841abcb872f0f4ce6d
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-08-18_20-53-40.389.png
+  - fileID: 96
+    classID: 28
+    packedSize: 84132
+    offset: 1052344
+    sourceAssetGUID: 22844eea78c55b2449503fd5cdbb5e2b
+    buildTimeAssetPath: Assets/VRC World Photos/Screenshot 2021-10-27 182440.png
+  - fileID: 97
+    classID: 28
+    packedSize: 240692
+    offset: 1136480
+    sourceAssetGUID: 26e634ddd9eae3c4faba5956d6990f14
+    buildTimeAssetPath: Assets/VRC World Photos/fursuit 1.jpg
+  - fileID: 98
+    classID: 28
+    packedSize: 63408
+    offset: 1377176
+    sourceAssetGUID: 2aa1353ee06f6e1499467abb194279d8
+    buildTimeAssetPath: Assets/Textures/LQ MIRROR.psd
+  - fileID: 99
+    classID: 28
+    packedSize: 44660
+    offset: 1440584
+    sourceAssetGUID: 2c0242bf2e93df245a8639a522932951
+    buildTimeAssetPath: Assets/Textures/Marble_SlabWhite2_512_albedo (1).tif
+  - fileID: 100
+    classID: 28
+    packedSize: 5592520
+    offset: 1485248
+    sourceAssetGUID: 2e2341b109223644895692d10f13fddf
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png
+  - fileID: 101
+    classID: 28
+    packedSize: 250272
+    offset: 7077768
+    sourceAssetGUID: 2f89290b2ed56854fbcd274e7ee34ad9
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-11-03_14-13-52.599.png
+  - fileID: 102
+    classID: 28
+    packedSize: 170444
+    offset: 7328040
+    sourceAssetGUID: 31bf6d91d6719c3429747b981fa94d77
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-11-04_20-45-16.929
+      (2).png
+  - fileID: 103
+    classID: 28
+    packedSize: 2796328
+    offset: 7498488
+    sourceAssetGUID: 36c6b7cccffde90489c5379d61a6a54f
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_N.png
+  - fileID: 104
+    classID: 28
+    packedSize: 174908
+    offset: 10294816
+    sourceAssetGUID: 483de94ab798a9941ba146ac6b28e4a9
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Knobs/intDoor_knob01_mat_doorKnob_Normal.png
+  - fileID: 105
+    classID: 28
+    packedSize: 174920
+    offset: 10469728
+    sourceAssetGUID: 4faad637e00ab96409330022f7e78c7f
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Knobs/intDoor_knob01_mat_doorKnob_AlbedoTransparency.png
+  - fileID: 106
+    classID: 28
+    packedSize: 304988
+    offset: 10644648
+    sourceAssetGUID: 50244582871b4094c950e901793b0af2
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-09-06_20-47-42.659.png
+  - fileID: 107
+    classID: 28
+    packedSize: 191532
+    offset: 10949640
+    sourceAssetGUID: 50bcdaa8818303a4e956d5a3d9995537
+    buildTimeAssetPath: Assets/VRC World Photos/1602089372.dakota..softpaw_octych7oc2.jpg
+  - fileID: 108
+    classID: 28
+    packedSize: 259660
+    offset: 11141176
+    sourceAssetGUID: 55374505964c8674eabf2b595272077c
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-11-03_14-08-21.029.png
+  - fileID: 109
+    classID: 28
+    packedSize: 305224
+    offset: 11400840
+    sourceAssetGUID: 572358a1b0a96324fab390b035a15edd
+    buildTimeAssetPath: Assets/Textures/Wall_Stucco3_1x1_1K_normal.tif
+  - fileID: 110
+    classID: 28
+    packedSize: 64692
+    offset: 11706064
+    sourceAssetGUID: 5b16cac21d8d0e34fbb7eb0c60aba022
+    buildTimeAssetPath: Assets/VRC World Photos/1575511388.dakota..softpaw_fursona_shark.jpg
+  - fileID: 111
+    classID: 28
+    packedSize: 41844
+    offset: 11770760
+    sourceAssetGUID: 5b78f851ac28f3748a5c234aeb1ccad3
+    buildTimeAssetPath: Assets/Textures/Marble_SlabWhite2_512_roughness.tif
+  - fileID: 112
+    classID: 28
+    packedSize: 2796332
+    offset: 11812608
+    sourceAssetGUID: 63a72aa542003b0448ff3bd776b2db17
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_AT.png
+  - fileID: 113
+    classID: 28
+    packedSize: 349648
+    offset: 14608944
+    sourceAssetGUID: 648fb83dbac6a5149a78a89cbcf22595
+    buildTimeAssetPath: Assets/BigFurniturePack/Textures/cloth_6.jpg
+  - fileID: 114
+    classID: 28
+    packedSize: 234424
+    offset: 14958592
+    sourceAssetGUID: 6a047bef976655447acd7ccf5b60955f
+    buildTimeAssetPath: Assets/Textures/carpet 1.jpg
+  - fileID: 115
+    classID: 28
+    packedSize: 281956
+    offset: 15193016
+    sourceAssetGUID: 6abab6ead3881264283fdbed2f9894f4
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-11-03_21-26-15.267.png
+  - fileID: 116
+    classID: 28
+    packedSize: 304424
+    offset: 15474976
+    sourceAssetGUID: 6eb3f621f3067634b9814e11064601e5
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-09-06_20-50-22.437.png
+  - fileID: 117
+    classID: 28
+    packedSize: 253824
+    offset: 15779400
+    sourceAssetGUID: 76a2ca8c35e75fb44a04440f6c4d720a
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-09-08_11-16-00.850.png
+  - fileID: 118
+    classID: 28
+    packedSize: 58140
+    offset: 16033224
+    sourceAssetGUID: 7d872a93b9b5ca24a8625eb161e005b7
+    buildTimeAssetPath: Assets/VRC World Photos/FB_IMG_1613896915598.jpg
+  - fileID: 119
+    classID: 28
+    packedSize: 46520
+    offset: 16091368
+    sourceAssetGUID: 825ca057519dbb3408bc76c172177a67
+    buildTimeAssetPath: Assets/VRC World Photos/Cupcake YCH.jpg
+  - fileID: 120
+    classID: 28
+    packedSize: 290764
+    offset: 16137888
+    sourceAssetGUID: 83af1e456dcbe6b4484f48690145aebe
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-11-03_20-34-51.532.png
+  - fileID: 121
+    classID: 28
+    packedSize: 699172
+    offset: 16428656
+    sourceAssetGUID: 883df5a0d81873b4c9582ea5a293ad17
+    buildTimeAssetPath: Assets/VRC World Photos/Materials/GlowyStuff/rainbow-sq.jpg
+  - fileID: 122
+    classID: 28
+    packedSize: 283400
+    offset: 17127832
+    sourceAssetGUID: 8b7f1ccd737a0f746a73d5398e8b379b
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-11-03_20-34-41.551.png
+  - fileID: 123
+    classID: 28
+    packedSize: 84260
+    offset: 17411232
+    sourceAssetGUID: 8e6b18562eacb5d4ebf8054df884af7d
+    buildTimeAssetPath: Assets/Textures/stretched 1.jpg
+  - fileID: 124
+    classID: 28
+    packedSize: 101608
+    offset: 17495496
+    sourceAssetGUID: 8f1ccf42fc6e7044f92c287ce9472b62
+    buildTimeAssetPath: Assets/VRC World Photos/1559597327.dakota..softpaw_dakota_softpaw_pride_flag.png
+  - fileID: 125
+    classID: 28
+    packedSize: 699168
+    offset: 17597104
+    sourceAssetGUID: 91937caf35c34ee4e922db45a32881f6
+    buildTimeAssetPath: Assets/BigFurniturePack/Textures/wood_4.JPG
+  - fileID: 126
+    classID: 28
+    packedSize: 106920
+    offset: 18296272
+    sourceAssetGUID: 96f737de4e133f744996ed35627b4d55
+    buildTimeAssetPath: Assets/VRC World Photos/Old School Kota Kewn.jpg
+  - fileID: 127
+    classID: 28
+    packedSize: 5592548
+    offset: 18403192
+    sourceAssetGUID: 979672cde837faa48a1a2f640d0f1954
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_MS.png
+  - fileID: 128
+    classID: 28
+    packedSize: 5592520
+    offset: 23995744
+    sourceAssetGUID: 9affb7f1e4a682e4d841cf3aefd4826d
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-1_comp_dir.png
+  - fileID: 129
+    classID: 28
+    packedSize: 80800
+    offset: 29588264
+    sourceAssetGUID: 9c909d6f09e280549b0f8be6fa96309c
+    buildTimeAssetPath: Assets/VRC World Photos/Screenshot 2021-10-28 182243.png
+  - fileID: 130
+    classID: 28
+    packedSize: 812
+    offset: 29669064
+    sourceAssetGUID: 9d0b29cecf2678b41982d2173d3670ff
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Prototyping/Textures/SwatchWhiteAlbedo.png
+  - fileID: 131
+    classID: 28
+    packedSize: 145024
+    offset: 29669880
+    sourceAssetGUID: a39bea9a927a31448ad4e169283cfc87
+    buildTimeAssetPath: Assets/VRC World Photos/Feel the music YCH.jpg
+  - fileID: 132
+    classID: 28
+    packedSize: 2796368
+    offset: 29814904
+    sourceAssetGUID: a71159b4e3afbf146b8d367578ab5416
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Frames/intDoor_metalFrame_mat_intDoor_metalFrame_white_Normal.png
+  - fileID: 133
+    classID: 28
+    packedSize: 110892
+    offset: 32611272
+    sourceAssetGUID: a87ef6bc749d04941a4c22d6b3bf3537
+    buildTimeAssetPath: Assets/VRC World Photos/backround.jpg
+  - fileID: 134
+    classID: 28
+    packedSize: 308388
+    offset: 32722168
+    sourceAssetGUID: b00a757cae33d924ea6df73cbdac4811
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-11-03_14-32-31.018.png
+  - fileID: 135
+    classID: 28
+    packedSize: 11184928
+    offset: 33030560
+    sourceAssetGUID: b12ca5d1e89491647a41f7b0619c4905
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr
+  - fileID: 136
+    classID: 28
+    packedSize: 265456
+    offset: 44215488
+    sourceAssetGUID: b3bf3b0742d8436499c4872645395add
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-11-03_14-22-46.146.png
+  - fileID: 137
+    classID: 28
+    packedSize: 699168
+    offset: 44480944
+    sourceAssetGUID: b85f57159dd296e40941510cbde61814
+    buildTimeAssetPath: Assets/BigFurniturePack/Textures/wood_3.JPG
+  - fileID: 138
+    classID: 28
+    packedSize: 77700
+    offset: 45180112
+    sourceAssetGUID: bc496bd1ea306264aaf237a820ee72f7
+    buildTimeAssetPath: Assets/VRC World Photos/1604898710.dakota..softpaw_pcychsockoc2.jpg
+  - fileID: 139
+    classID: 28
+    packedSize: 11184928
+    offset: 45257816
+    sourceAssetGUID: bf5df6e137ef411408876f624b142294
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-1_comp_light.exr
+  - fileID: 140
+    classID: 28
+    packedSize: 222224
+    offset: 56442744
+    sourceAssetGUID: c009307569224cc4896df71637cd82bd
+    buildTimeAssetPath: Assets/VRC World Photos/Toony commisson.png
+  - fileID: 141
+    classID: 28
+    packedSize: 5592596
+    offset: 56664968
+    sourceAssetGUID: ca678de913972ef458930a6aa75a4c45
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Frames/intDoor_metalFrame_mat_intDoor_metalFrame_white_MetallicSmoothness.png
+  - fileID: 142
+    classID: 28
+    packedSize: 215500
+    offset: 62257568
+    sourceAssetGUID: cf4b5343fff198341bf931e6f4316130
+    buildTimeAssetPath: Assets/VRC World Photos/IMG_6895.png
+  - fileID: 143
+    classID: 28
+    packedSize: 65344
+    offset: 62473072
+    sourceAssetGUID: cffec17a956c0bf468ad8291a6a85ad1
+    buildTimeAssetPath: Assets/Textures/HQ MIRROR.psd
+  - fileID: 144
+    classID: 28
+    packedSize: 271996
+    offset: 62538416
+    sourceAssetGUID: d399dba1c40c7284c9724ffd625b0371
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-08-28_14-55-41.526.png
+  - fileID: 145
+    classID: 28
+    packedSize: 275496
+    offset: 62810416
+    sourceAssetGUID: d3a364c8b4b8d9342ad7e261780eaad6
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-11-08_10-30-47.851.png
+  - fileID: 146
+    classID: 28
+    packedSize: 4396
+    offset: 63085912
+    sourceAssetGUID: d5fa73d9eadc8c240a60a828dba8180f
+    buildTimeAssetPath: Assets/Textures/Marble_SlabWhite2_512_normal.tif
+  - fileID: 147
+    classID: 28
+    packedSize: 2796380
+    offset: 63090312
+    sourceAssetGUID: dbf00f5247f3ef74aaa4396a029b9381
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Frames/intDoor_metalFrame_mat_intDoor_metalFrame_white_AlbedoTransparency.png
+  - fileID: 148
+    classID: 28
+    packedSize: 349696
+    offset: 65886696
+    sourceAssetGUID: ddfaa0f7a22ed8e4fb26446ba8a80796
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Knobs/intDoor_knob01_mat_doorKnob_MetallicSmoothness.png
+  - fileID: 149
+    classID: 28
+    packedSize: 83056
+    offset: 66236392
+    sourceAssetGUID: e12f77dbdf9046b44a10641f8d1c5364
+    buildTimeAssetPath: Assets/VRC World Photos/Screenshot 2021-10-28 181756.png
+  - fileID: 150
+    classID: 28
+    packedSize: 27088
+    offset: 66319448
+    sourceAssetGUID: e50a367ed22fb324dbf52e10bed07344
+    buildTimeAssetPath: Assets/VRC World Photos/Kota Bean 2.png
+  - fileID: 151
+    classID: 28
+    packedSize: 270960
+    offset: 66346536
+    sourceAssetGUID: e651d2af223340546a3ba314d7aebfeb
+    buildTimeAssetPath: Assets/Textures/carpet.jpg
+  - fileID: 152
+    classID: 28
+    packedSize: 84140
+    offset: 66617496
+    sourceAssetGUID: f02f341480369704ea68434b32448032
+    buildTimeAssetPath: Assets/VRC World Photos/cute.png
+  - fileID: 153
+    classID: 28
+    packedSize: 357316
+    offset: 66701640
+    sourceAssetGUID: fcf474b1c49a3924eb4ecb066d100ff3
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-08-26_23-39-07.267.png
+  - fileID: 154
+    classID: 28
+    packedSize: 166224
+    offset: 67058960
+    sourceAssetGUID: fd7d64ffab168004eb3dba2b62405937
+    buildTimeAssetPath: Assets/VRC World Photos/VRChat_1920x1080_2021-09-02_22-09-57.964.png
+  - fileID: 155
+    classID: 43
+    packedSize: 3820
+    offset: 67225184
+    sourceAssetGUID: b243b844d7a80a746b855eca5b0582ca
+    buildTimeAssetPath: Assets/QvPen/Mesh/qv_pen.fbx
+  - fileID: 156
+    classID: 43
+    packedSize: 788
+    offset: 67229008
+    sourceAssetGUID: bd83bee821a1a89488f004c9dc04b5b4
+    buildTimeAssetPath: Assets/QvPen/Mesh/qv_eraser.fbx
+  - fileID: 157
+    classID: 48
+    packedSize: 1689884
+    offset: 67229800
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 158
+    classID: 48
+    packedSize: 5980
+    offset: 68919688
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 159
+    classID: 48
+    packedSize: 7108
+    offset: 68925672
+    sourceAssetGUID: 693137b858e4dc64c83be531351f45e6
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Shaders/Mirror.shader
+  - fileID: 160
+    classID: 48
+    packedSize: 6412
+    offset: 68932784
+    sourceAssetGUID: 8b39b95ac85682040beff730e0cfc77a
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Particle-Alpha.shader
+  - fileID: 161
+    classID: 74
+    packedSize: 2436
+    offset: 68939200
+    sourceAssetGUID: abcbdb45c0f4e0d4688e7a2d065a9396
+    buildTimeAssetPath: Assets/QvPen/Animation/Eraser/erase.anim
+  - fileID: 162
+    classID: 74
+    packedSize: 2288
+    offset: 68941640
+    sourceAssetGUID: 7314617856b5de245b297ee08c015616
+    buildTimeAssetPath: Assets/QvPen/Animation/Event/ignite.anim
+  - fileID: 163
+    classID: 89
+    packedSize: 63264
+    offset: 68943928
+    sourceAssetGUID: 0ee39ab39126f9b46af9c8610f9c1535
+    buildTimeAssetPath: Assets/Scenes/SampleScene/ReflectionProbe-1.exr
+  - fileID: 164
+    classID: 89
+    packedSize: 63264
+    offset: 69007192
+    sourceAssetGUID: 3da13a92e2b4bb641a1ff43884d968cd
+    buildTimeAssetPath: Assets/Scenes/SampleScene/ReflectionProbe-2.exr
+  - fileID: 165
+    classID: 89
+    packedSize: 63264
+    offset: 69070456
+    sourceAssetGUID: 62ccb70ca12837e4eae25aaa66a7ec08
+    buildTimeAssetPath: Assets/Scenes/SampleScene/ReflectionProbe-3.exr
+  - fileID: 166
+    classID: 89
+    packedSize: 63264
+    offset: 69133720
+    sourceAssetGUID: 9bc6a9c02b5833b4484811399f0fadc2
+    buildTimeAssetPath: Assets/Scenes/SampleScene/ReflectionProbe-0.exr
+  - fileID: 167
+    classID: 91
+    packedSize: 412
+    offset: 69196984
+    sourceAssetGUID: 0850cf01093469d499ee66974276be9c
+    buildTimeAssetPath: Assets/QvPen/Animation/Event/Event.controller
+  - fileID: 168
+    classID: 115
+    packedSize: 96
+    offset: 107712
+    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCCore-Editor.dll
+  - fileID: 169
+    classID: 115
+    packedSize: 88
+    offset: 107808
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 170
+    classID: 115
+    packedSize: 96
+    offset: 107896
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 171
+    classID: 115
+    packedSize: 88
+    offset: 107992
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 172
+    classID: 115
+    packedSize: 88
+    offset: 108080
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 173
+    classID: 115
+    packedSize: 144
+    offset: 108168
+    sourceAssetGUID: 009fbf49e77db344db366a646868e02d
+    buildTimeAssetPath: Assets/Standard Assets/ParticleSystems/Scripts/ExplosionFireAndDebris.cs
+  - fileID: 174
+    classID: 115
+    packedSize: 144
+    offset: 108312
+    sourceAssetGUID: 039587c051912eb4ead9e58344c5f3ce
+    buildTimeAssetPath: Assets/Standard Assets/ParticleSystems/Scripts/ParticleSystemMultiplier.cs
+  - fileID: 175
+    classID: 115
+    packedSize: 88
+    offset: 108456
+    sourceAssetGUID: 0d0b652f32a2cc243917e4028fa0f046
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Dropdown.cs
+  - fileID: 176
+    classID: 115
+    packedSize: 120
+    offset: 108544
+    sourceAssetGUID: 246cc59c7a84ea44f87f6b70acfe30c5
+    buildTimeAssetPath: Assets/Standard Assets/Utility/FollowTarget.cs
+  - fileID: 177
+    classID: 115
+    packedSize: 136
+    offset: 108664
+    sourceAssetGUID: 3a7cedf246fca744f90cbdc9dbe41166
+    buildTimeAssetPath: Assets/Standard Assets/Utility/TimedObjectActivator.cs
+  - fileID: 178
+    classID: 115
+    packedSize: 88
+    offset: 108800
+    sourceAssetGUID: 4e29b1a8efbd4b44bb3f3716e73f07ff
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Button.cs
+  - fileID: 179
+    classID: 115
+    packedSize: 80
+    offset: 108888
+    sourceAssetGUID: 5f7201a12d95ffc409449d95f23cf332
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Text.cs
+  - fileID: 180
+    classID: 115
+    packedSize: 112
+    offset: 108968
+    sourceAssetGUID: 8233d90336aea43098adf6dbabd606a2
+    buildTimeAssetPath: Packages/com.unity.probuilder/Runtime/Core/ProBuilderMesh.cs
+  - fileID: 181
+    classID: 115
+    packedSize: 112
+    offset: 109080
+    sourceAssetGUID: a8d3968294210ba4a9d2bb96dfa74a16
+    buildTimeAssetPath: Assets/Standard Assets/Cameras/Scripts/AutoCam.cs
+  - fileID: 182
+    classID: 115
+    packedSize: 88
+    offset: 109192
+    sourceAssetGUID: e19747de3f5aca642ab2be37e372fb86
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/VertexModifiers/Outline.cs
+  - fileID: 183
+    classID: 115
+    packedSize: 88
+    offset: 109280
+    sourceAssetGUID: fe87c0e1cc204ed48ad3b37840f39efc
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+  - fileID: 184
+    classID: 115
+    packedSize: 80
+    offset: 109368
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 185
+    classID: 115
+    packedSize: 80
+    offset: 109448
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 186
+    classID: 115
+    packedSize: 80
+    offset: 109528
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 187
+    classID: 115
+    packedSize: 96
+    offset: 109608
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 188
+    classID: 115
+    packedSize: 80
+    offset: 109704
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 189
+    classID: 258
+    packedSize: 55784
+    offset: 69197400
+    sourceAssetGUID: 14c3b32035b0cb74c9ec8aff9b1bb97f
+    buildTimeAssetPath: Assets/Scenes/SampleScene/LightingData.asset
+--- !u!382020655 &-3952170289584815650
+PluginBuildInfo:
+  m_RuntimePlugins:
+  - AWSSDK.CognitoIdentity
+  - VRCSDK2
+  - nunit.framework
+  - OVRPlugin
+  - librsync.net
+  - Collections.Pooled
+  - System.Collections.Immutable
+  - System.Numerics.Vectors
+  - AWSSDK.Core
+  - System.Buffers
+  - VRCSDKBase
+  - System.Runtime.CompilerServices.Unsafe
+  - AWSSDK.S3
+  - AWSSDK.SecurityToken
+  - ICSharpCode.SharpZipLib
+  - Blake2Sharp
+  - System.Memory
+  - VRCCore-Editor
+  - libAudioPluginOculusSpatializer
+  m_EditorPlugins:
+  - openvr_api
+  - AppleEventIntegration
+  - liblz4Plastic
+  - Unity.Plastic.Newtonsoft.Json
+  - unityplastic
+  - zlibwapi
+  - AudioPluginOculusSpatializer
+  - VRCSDK2-Editor
+  - UnityEditor.VR
+  - VRCSDKBase-Editor
+  - DotZLib
+  - log4netPlastic
+  - libopenvr_api
+  - zlib64Plastic
+  - Unity.Plastic.Antlr3.Runtime
+  - lz4x64Plastic
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LastQuestBuild
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 637721932220325086
+    buildGUID: 00000000000000000000000000000000
+    platformName: Android
+    platformGroupName: Android
+    options: 16
+    assetBundleOptions: 0
+    outputPath: C:/Users/NOTASH~1/AppData/Local/Temp/DefaultCompany/fiverrPicWithFriends2/customscene.vrcw
+    crc: 1128551783
+    totalSize: 17241570
+    totalTimeTicks: 374713119
+    totalErrors: 0
+    totalWarnings: 1
+    buildType: 1
+    buildResult: 1
+  m_Files:
+  - path: D:/Projects/fiverrPicWithFriends2/customscene.vrcw/BuildPlayer-SampleScene
+    role: Scene
+    id: 0
+    totalSize: 1343036
+  - path: D:/Projects/fiverrPicWithFriends2/customscene.vrcw/BuildPlayer-SampleScene.sharedAssets
+    role: SharedAssets
+    id: 1
+    totalSize: 69253184
+  - path: D:/Projects/fiverrPicWithFriends2/customscene.vrcw
+    role: AssetBundle
+    id: 2
+    totalSize: 17236892
+  - path: D:/Projects/fiverrPicWithFriends2/customscene.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 3
+    totalSize: 3498
+  - path: D:/Projects/fiverrPicWithFriends2/fiverrPicWithFriends2/CAB-6b63fe6d559f3ef9cfff1280ecc605d2
+    role: ResourcesFile
+    id: 4
+    totalSize: 4284
+  - path: D:/Projects/fiverrPicWithFriends2/fiverrPicWithFriends2
+    role: ManifestAssetBundle
+    id: 5
+    totalSize: 1036
+  - path: D:/Projects/fiverrPicWithFriends2/fiverrPicWithFriends2.manifest
+    role: AssetBundleTextManifest
+    id: 6
+    totalSize: 144
+  m_BuildSteps:
+  - stepName: Build Asset Bundles
+    durationTicks: 374713119
+    depth: 0
+    messages: []
+  - stepName: Calculate asset bundles to be built
+    durationTicks: 410664
+    depth: 1
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 60055975
+    depth: 1
+    messages: []
+  - stepName: Build player
+    durationTicks: 264001581
+    depth: 1
+    messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 3102744
+    depth: 2
+    messages:
+    - type: 2
+      content: Warning! Using more than 1 pixel lights on a mobile device may decrease
+        performance severely. You can change the mobile quality settings in 'Project
+        Settings -> Quality Settings'.
+  - stepName: Building scenes
+    durationTicks: 22543023
+    depth: 2
+    messages: []
+  - stepName: Building scene Assets/Scenes/SampleScene.unity
+    durationTicks: 22534923
+    depth: 3
+    messages: []
+  - stepName: Writing asset files
+    durationTicks: 8723263
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - archive:/BuildPlayer-SampleScene/BuildPlayer-SampleScene.sharedAssets
+    durationTicks: 8693075
+    depth: 3
+    messages: []
+  - stepName: Creating compressed player package
+    durationTicks: 217065633
+    depth: 2
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 250198
+    depth: 2
+    messages: []
+  m_Appendices:
+  - {fileID: 8467003779987887885}
+  - {fileID: -4171838183678168294}
+  - {fileID: -3952170289584815650}
+  - {fileID: 5552882537724098746}
+  - {fileID: 5672976938080006553}
+--- !u!641289076 &5552882537724098746
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 0
+  m_AudioMixerCount: 0
+--- !u!1126 &5672976938080006553
+PackedAssets:
+  m_File: 4
+  m_ShortPath: CAB-6b63fe6d559f3ef9cfff1280ecc605d2
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 142
+    packedSize: 104
+    offset: 4096
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 2
+    classID: 290
+    packedSize: 84
+    offset: 4200
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
+--- !u!668709126 &8467003779987887885
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: customscene.vrcw
+    bundleArchiveFile: 2
+    packagedFileIndices: 0000000001000000
+  - bundleName: fiverrPicWithFriends2
+    bundleArchiveFile: 5
+    packagedFileIndices: 04000000
